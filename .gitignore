@@ -1,0 +1,37 @@
+# Credentials & Secrets
+.env
+client_secrets.json
+token.json
+*.key
+
+# Media and Large Output Files
+*.mp4
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+sample_video.mp4
+final_output.mp4
+master_video_render.mp4
+test_quality_output.mp4
+
+# Temp Working Directories & Caches
+temp_*/
+generated_scenes/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Logs
+automation.log*
+automation_log.txt
+*.log
+
+# Environment & OS
+.venv/
+env/
+venv/
+.DS_Store
+Thumbs.db
