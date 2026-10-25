@@ -98,6 +98,121 @@ OFFLINE_BACKUP_STORIES = [
                 "image_prompt": "Tenali Raman standing in the golden morning sunrise with folded hands thanking the terrified tired thieves as they run away across green fields."
             }
         ]
+    },
+    {
+        "title": "शेख चिल्ली और खयाली पुलाव! 🥚💥 हँसते-हँसते लोटपोट | Sheikh Chilli Comedy",
+        "description": "शेख चिल्ली ने सपनों के महल में सिर हिलाया और सारे अंडे फूट गए! देखिए यह क्लासिक देसी कॉमेडी किस्सा! #SheikhChilli #ComedyShorts #DesiJokes #HindiStories",
+        "tags": ["Sheikh Chilli", "Funny Kahaniya", "Desi Comedy", "Hindi Folktales", "Shorts", "Comedy Video"],
+        "scenes": [
+            {
+                "scene_text": "सेठजी ने शेख चिल्ली को अंडों का बड़ा टोकरा सिर पर रखकर बाजार ले जाने के बदले दो आने दिए।",
+                "image_prompt": "A comical goofy Sheikh Chilli balancing a gigantic wicker basket heaped with white eggs on his turban, walking proudly with a fat merchant watching."
+            },
+            {
+                "scene_text": "शेख चिल्ली खयालों में खो गया: 'इन दो आने से मुर्गियां खरीदूंगा, फिर बकरियां, फिर हाथी और फिर राजकुमारी से शादी होगी!'",
+                "image_prompt": "Dream bubble fantasy above Sheikh Chilli showing him wearing a golden crown riding a lavish decorated royal elephant, grinning foolishly in daydream."
+            },
+            {
+                "scene_text": "आगे सोचा: 'मेरा नटखट बेटा जब मेरी बात नहीं मानेगा, तो मैं गुस्से में जोर से सिर हिलाकर कहूंगा—हरगिज नहीं!'",
+                "image_prompt": "Sheikh Chilli making an exaggerated dramatic angry face, violently shaking his head left and right while walking in the middle of a dusty Indian street."
+            },
+            {
+                "scene_text": "जैसे ही उसने सिर हिलाया, पूरा टोकरा धड़ाम से जमीन पर गिरा और सारे अंडों का ऑमलेट बन गया! सेठजी डंडा लेकर पीछे दौड़े।",
+                "image_prompt": "Slapstick chaos on village road: eggs smashing everywhere with yellow yolk splashing, Sheikh Chilli eyes wide in comic shock as the angry merchant chases him with a cane."
+            }
+        ]
+    },
+    {
+        "title": "गोपाल भांड़ और रसगुल्ले का भूत! 👻🍬 कंजूस हलवाई की छुट्टी | Gopal Bhar Story",
+        "description": "जब कंजूस हलवाई ने बासी मिठाई बेची, तो गोपाल भांड़ ने भूत बनकर पूरी दुकान खाली करवा दी! #GopalBhar #FunnyStories #BengaliFolklore #HindiComedy",
+        "tags": ["Gopal Bhar", "Funny Hindi", "Folktales", "Comedy", "Shorts", "Rasgulla"],
+        "scenes": [
+            {
+                "scene_text": "गाँव का कंजूस हलवाई हमेशा बासी मिठाइयां बेचता और ग्राहकों से गाली-गलौज करता था। गोपाल भांड़ ने उसे सबक सिखाने की ठानी।",
+                "image_prompt": "A grumpy, pot-bellied Indian sweet shop owner sitting cross-legged at a stall lined with trays of syrupy jalebis and gulab jamuns, scowling greedily."
+            },
+            {
+                "scene_text": "रात के बारह बजे गोपाल सफेद चादर लपेटकर और मुंह पर लाल रंग लगाकर हलवाई की खिड़की पर आ धमका—'मुझे गरम-गरम रसगुल्ले चाहिए!'",
+                "image_prompt": "A comical clumsy ghost wrapped in white sheets with flour-dusted face and wild eyes peeking menacingly into the lantern-lit sweet shop window at night."
+            },
+            {
+                "scene_text": "डर के मारे हलवाई के हाथ-पैर कांपने लगे! उसने अपनी सारी ताज़ा मिठाइयों का थाल भूत की झोली में उड़ेल दिया।",
+                "image_prompt": "The terrified sweet maker shaking uncontrollably on his knees, holding up a giant silver platter dripping with hot spongy rasgullas toward the sheet-clad ghost."
+            },
+            {
+                "scene_text": "अगली सुबह जब हलवाई ने गोपाल को वही रसगुल्ले गाँव के बच्चों में बांटते देखा, तो अपना सिर पकड़कर रोने लगा!",
+                "image_prompt": "Gopal Bhar laughing heartily in the morning sun feeding delicious sweets to joyful village children while the depressed sweet maker slumps on a stool in background."
+            }
+        ]
+    },
+    {
+        "title": "पंडितजी और तीन ठगों का कुत्ता-बकरा कांड! 🐐🐕 मूर्खता की हद | Panchatantra Comedy",
+        "description": "तीन ठगों ने कैसे एक मोटे ताजे बकरे को कुत्ता बताकर पंडितजी को चपत लगा दी? देखिए यह मजेदार किस्सा! #Panchatantra #FunnyFolktale #DesiComedy #Shorts",
+        "tags": ["Panchatantra", "Brahmin And Goat", "Comedy Shorts", "Hindi Kahani", "Desi Humor"],
+        "scenes": [
+            {
+                "scene_text": "पंडितजी यजमान से मिला मोटा-ताज़ा बकरा अपने कंधे पर लादकर खुशी-खुशी घर लौट रहे थे।",
+                "image_prompt": "An eccentric Indian Pandit with tilak on forehead walking joyfully down a country path with a chubby, cheerful horned black goat resting on his shoulders."
+            },
+            {
+                "scene_text": "रास्ते में तीन चालाक ठगों ने योजना बनाई। पहले ठग ने आकर कहा, 'पंडितजी, कंधे पर यह गंदा कुत्ता क्यों लाद रखा है?'",
+                "image_prompt": "A sly cunning rogue villager pointing dramatically at the goat, whispering with mocked disgust as the Pandit looks puzzled and annoyed."
+            },
+            {
+                "scene_text": "आगे चलकर दूसरे और तीसरे ठग ने भी कहा, 'राम-राम! पंडित होकर मरा हुआ बछड़ा और पागल कुत्ता ढो रहे हो!'",
+                "image_prompt": "Two more mischievous villagers acting horrified with hands on their heads while the bewildered Pandit starts sweating nervously inspecting his own goat."
+            },
+            {
+                "scene_text": "पंडितजी घबरा गए कि यह कोई भूतिया जानवर है! उन्होंने बकरे को तुरंत फेंका और जान बचाकर धोती संभालते हुए भागे। ठगों की दावत हो गई!",
+                "image_prompt": "The panicked Pandit tossing the goat into the air and sprinting away holding his saffron dhoti, while the three laughing thieves high-five around the happy goat."
+            }
+        ]
+    },
+    {
+        "title": "मुल्ला नसरुद्दीन का गायब गधा! 🐴🔍 हँसी नहीं रोक पाओगे | Mullah Nasruddin Jokes",
+        "description": "मुल्ला नसरुद्दीन बैठकर गधे गिनते तो 9 निकलते, उतरते तो 10! जानिए इस बेवकूफी का मजेदार रहस्य! #MullahNasruddin #FunnyShorts #DesiJokes #Comedy",
+        "tags": ["Mullah Nasruddin", "Funny Story", "Comedy Shorts", "Desi Jokes", "Hindi Kahani"],
+        "scenes": [
+            {
+                "scene_text": "मुल्ला नसरुद्दीन मेले से दस गधे खरीदकर अपने गाँव की तरफ निकले।",
+                "image_prompt": "A whimsical Mullah Nasruddin with a huge white turban riding a donkey leading a line of nine playful donkeys through a picturesque dusty village trail."
+            },
+            {
+                "scene_text": "सड़क पर बैठे-बैठे उन्होंने गधे गिने—'एक, दो, तीन... नौ! अरे, दसवां गधा कहाँ गया?' मुल्ला के पसीने छूट गए।",
+                "image_prompt": "Mullah Nasruddin sitting atop his donkey frantically counting his fingers with comical wide-eyed panic as he peers behind at the line of donkeys."
+            },
+            {
+                "scene_text": "वे गधे से नीचे उतरे और फिर से जमीन पर खड़े होकर गिने—'अरे, अब तो पूरे दस हैं!'",
+                "image_prompt": "Mullah Nasruddin standing on the ground scratching his beard with a relieved silly grin while counting each donkey pointing with a wooden stick."
+            },
+            {
+                "scene_text": "फिर से गधे पर चढ़े और गिना तो फिर नौ! मुल्ला बोले, 'भाई, इस गधे पर बैठकर चलने से तो एक गधा गायब हो जाता है, मैं पैदल ही ठीक हूँ!'",
+                "image_prompt": "Comical closing visual: Mullah happily walking on foot in front of all ten donkeys sweating in the heat, utterly convinced of his own brilliant logic."
+            }
+        ]
+    },
+    {
+        "title": "बीरबल और दिल्ली के कौवों का हिसाब! 🦅😂 अकबर हुए हैरान | Birbal Ki Chaturai",
+        "description": "अकबर ने पूछा दिल्ली में कितने कौवे हैं? बीरबल का ऐसा जवाब सुनकर पूरा दरबार लोटपोट हो गया! #AkbarBirbal #BirbalComedy #MughalSatire #HindiStories",
+        "tags": ["Akbar Birbal", "Birbal Ki Chaturai", "Comedy Stories", "Historical Satire", "Shorts"],
+        "scenes": [
+            {
+                "scene_text": "एक शाम दरबार की बालकनी से उड़ते कौवों को देखकर अकबर ने बीरबल की परीक्षा लेने की सोची।",
+                "image_prompt": "Emperor Akbar standing on a grand royal palace balcony overlooking the Yamuna river at sunset, pointing smugly at a flock of black crows flying across the sky."
+            },
+            {
+                "scene_text": "अकबर ने मुस्कुरा कर पूछा, 'बीरबल, क्या तुम बता सकते हो कि हमारे पूरे शहर में कुल कितने कौवे हैं?'",
+                "image_prompt": "Mughal courtiers snickering and whispering behind their hands, thinking Birbal is finally trapped by the Emperor's impossible question."
+            },
+            {
+                "scene_text": "बीरबल ने बिना पलक झपकाए तुरंत कहा, 'हुजूर, हमारी राजधानी में ठीक पचास हजार चार सौ बत्तीस कौवे हैं!'",
+                "image_prompt": "Birbal smiling with supreme confidence, touching his heart with one hand and making a witty royal salam gesture before the astounded Emperor."
+            },
+            {
+                "scene_text": "अकबर बोले, 'अगर कम या ज्यादा निकले तो?' बीरबल बोले, 'कम निकले तो पड़ोस के राज्य रिश्तेदारी में गए हैं, ज्यादा हुए तो उनके रिश्तेदार यहाँ छुट्टियां मनाने आए हैं!'",
+                "image_prompt": "Emperor Akbar and the entire royal Mughal court bursting into roaring laughter as Birbal winks playfully under the palace chandeliers."
+            }
+        ]
     }
 ]
 
@@ -264,19 +379,27 @@ def generate_story() -> Dict[str, Any]:
     past_topics = [item["title"] for item in load_history()[-20:]]
 
     prompt = f"""
-    You are an expert Indian humorous storyteller and creative scriptwriter for viral YouTube videos.
-    Generate an original, hilarious, and engaging story inspired by classic Indian folk satire,
-    Akbar-Birbal, Tenali Raman, Sheikh Chilli, Gopal Bhar, or quirky modern Indian village situations.
+    You are an expert Indian comedic scriptwriter and folklore satirist specializing in viral, laugh-out-loud YouTube content.
+    Generate an intensely funny, cliché, and entertaining Indian folk comedy or satirical village tale.
 
-    Video Format: {format_desc}
-    Target Scene Count: Exactly {min_scenes} to {max_scenes} discrete visual scenes.
-    Narration Language: Natural, conversational Hindi (laced with witty Hinglish expressions where fun).
-    
+    ICONIC COMEDY TROPES TO LEVERAGE (Pick one entertaining angle):
+    1. Classic Sheikh Chilli 'Khayali Pulao': Wild daydreaming leading to comical real-life disasters.
+    2. Witty Courtier (Akbar-Birbal, Tenali Raman, Gopal Bhar): Outsmarting greedy zamindars, arrogant scholars, or stingy halwais.
+    3. The Overconfident Desi Jugaad: A villager creating an absurd invention or scheme that backfires hilariously.
+    4. The Ultra-Stingy Sethji / Greedy Merchant: Trying to save two pennies and losing his turban or pride in the process.
+    5. Village Rumor & Superstition Chaos: A tiny misunderstanding (like a lost donkey or a harmless goat) treated like a ghost or imperial crisis.
+
+    TONE & HUMOR GUIDELINES:
+    - Language: Conversational, energetic Hindi with witty, relatable phrasing ('अरे बाप रे!', 'सारा खेल ही पलट गया', 'सिस्टम ही हिल गया').
+    - Pacing: Fast-paced, punchy, buildup with a hilarious climax and ironic final punchline.
+    - Format: {format_desc}
+    - Exact Scene Count: Exactly {min_scenes} to {max_scenes} discrete visual scenes.
+
     CRITICAL SCENE-BY-SCENE REQUIREMENT:
     You must divide the story into discrete, synchronized scenes.
     For each scene:
-    - 'scene_text': The exact Hindi narration spoken during this visual (1-2 sentences).
-    - 'image_prompt': A vivid, highly descriptive English visual prompt for generating the illustration (characters, clothes, facial emotion, environment, lighting).
+    - 'scene_text': The exact Hindi narration spoken during this visual (1-2 punchy, expressive sentences).
+    - 'image_prompt': A vivid, highly descriptive English visual prompt for generating the illustration in FLUX diffusion. Include exaggerated comical facial expressions (eyes popping, jaws dropping, sneaky grins), character clothing, dynamic action, warm lighting, and traditional Indian storybook aesthetics.
     
     Previous topics to AVOID repeating: {json.dumps(past_topics, ensure_ascii=False)}
 
@@ -288,7 +411,7 @@ def generate_story() -> Dict[str, Any]:
       "scenes": [
         {{
           "scene_text": "Hindi narration for this visual moment...",
-          "image_prompt": "Detailed cinematic visual scene description..."
+          "image_prompt": "Detailed comedic visual scene description with expressive characters and environment..."
         }}
       ]
     }}
