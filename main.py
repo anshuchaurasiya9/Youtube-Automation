@@ -32,11 +32,14 @@ console_formatter = logging.Formatter("%(asctime)s [%(levelname)s] %(message)s",
 console_handler.setFormatter(console_formatter)
 logger.addHandler(console_handler)
 
-# Rotating file handler (up to 5MB, 3 backups)
-file_handler = RotatingFileHandler(LOG_FILE, maxBytes=5 * 1024 * 1024, backupCount=3, encoding="utf-8")
-file_handler.setLevel(logging.INFO)
-file_handler.setFormatter(console_formatter)
-logger.addHandler(file_handler)
+# Rotating file handler (up to 5MB, 3 backups, safe against file locks)
+try:
+    file_handler = RotatingFileHandler(LOG_FILE, maxBytes=5 * 1024 * 1024, backupCount=3, encoding="utf-8", delay=True)
+    file_handler.setLevel(logging.INFO)
+    file_handler.setFormatter(console_formatter)
+    logger.addHandler(file_handler)
+except Exception as e:
+    logger.warning(f"Could not attach rotating file handler to {LOG_FILE}: {e}")
 
 def run_pipeline() -> int:
     """
